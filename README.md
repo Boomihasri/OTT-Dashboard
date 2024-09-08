@@ -45,7 +45,7 @@
 6. Internal platform analytics, user feedback surveys.
 7. Age Group, Gender, Location, Device Used.
 8. User profiles, demographic surveys.
-- [**Data set Link**][(https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/Finance%20Excel%20Dashboard.xlsx)](https://github.com/Boomihasri/IT-analysis-dashboard/blob/main/IT%20Budget%20Analysis%20Dash.pbix)
+- [**Data set Link**]https://github.com/Boomihasri/OTT-Dashboard/blob/main/ott%20powerbi%20dashboard.pbix
 
 ## 💡 Recommendations
 1. **Content Strategy**:
@@ -86,9 +86,9 @@
 - **Understanding the Data:** A comprehensive overview of the OTT visual data and its underlying structure.
 
 ### Data Preparation
-<img src=https://github.com/Boomihasri/IT-analysis-dashboard/blob/main/IT%20analysis%20headline.png>
-<img src=https://github.com/Boomihasri/IT-analysis-dashboard/blob/main/IT%20analysis%20decomposition.png>
-<img src=https://github.com/Boomihasri/IT-analysis-dashboard/blob/main/IT%20analysis%20map.png>
+<img src=https://github.com/Boomihasri/OTT-Dashboard/blob/main/Netflix%20dashboard.png>
+<img src=https://github.com/Boomihasri/OTT-Dashboard/blob/main/Amazon%20dashboard.png>
+<img src=https://github.com/Boomihasri/OTT-Dashboard/blob/main/Hotstar%20dashboard.png>
 
 
 
